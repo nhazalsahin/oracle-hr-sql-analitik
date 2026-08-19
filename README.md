@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31215276/README.md)
-# oracle-hr-sql-analitik
-SQL analytics queries on Oracle's HR sample schema — JOINs, window functions, subqueries, and CASE statements for HR reporting scenarios (department budgets, salary equity, org hierarchy)
 # Oracle SQL ile İK Veri Analizi Projesi
 
 Oracle'ın resmi **HR (Human Resources) örnek şeması** (107 çalışan, 27 departman, 19 pozisyon) üzerinde, gerçek şirketlerde İK/finans ekiplerinin ihtiyaç duyduğu türden analitik raporlar hazırlamak amacıyla geliştirdiğim SQL sorgu koleksiyonu.
